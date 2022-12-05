@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "sim-cal"
+name = "sim-calendar"
 version = "0.1.0"
 description = ""
 authors = ["Gabe Maayan <gabemgem@gmail.com>"]
 readme = "README.md"
-packages = [{include = "sim_cal"}]
+packages = [{include = "sim_calendar"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
