@@ -1,5 +1,5 @@
 from datetime import datetime, timedelta, MINYEAR
-from months import MONTHS
+from sim_calendar.months import MONTHS
 
 class Calendar:
     # Class to define a simple calendar for a time stepped simulation.

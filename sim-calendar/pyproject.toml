@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sim-calendar"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Gabe Maayan <gabemgem@gmail.com>"]
 readme = "README.md"
